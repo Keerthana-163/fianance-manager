@@ -141,7 +141,4 @@ Suitable for B.Tech / Final Year / Full-Stack Portfolio
 
 ---
 
-## 👩‍💻 Author
 
-Your Name  
-Full Stack + AI Developer
